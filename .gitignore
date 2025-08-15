@@ -5,3 +5,8 @@ __pycache__/
 *.pyd
 env/
 .vscode/
+*.egg-info/
+*.eggs/
+*.pytest_cache/
+*.cover
+*.coverage
