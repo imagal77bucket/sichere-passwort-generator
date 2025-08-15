@@ -1,1 +1,6 @@
 # Zukünftige Abhängigkeiten können hier hinzugefügt werden
+
+# Beispielabhängigkeiten:
+# numpy==1.21.0
+# pandas==1.3.0
+# requests==2.26.0
