@@ -1,1 +1,1 @@
-# Hier können zukünftige Abhängigkeiten hinzugefügt werden
+# Future dependencies can be added here
