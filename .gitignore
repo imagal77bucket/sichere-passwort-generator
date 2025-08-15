@@ -1,3 +1,4 @@
+# Ignorierte Dateien und Verzeichnisse für Python-Projekte
 __pycache__/
 *.pyc
 *.pyo
